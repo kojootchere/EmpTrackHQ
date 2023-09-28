@@ -33,4 +33,4 @@ For any questions, please contact me at [https://github.com/kojootchere](https:/
 
 ## Walkthrough
 
-Link to Walkthrough Video: [EmpTrackHQ Walkthrough Video](https://github.com/kojootchere/ReadGenPro-ReadMe-Generator-Professional/raw/main/ReadGenPro-ReadMe-Generator-Professional_Walkthrough.MOV)
+Link to Walkthrough Video: [EmpTrackHQ Walkthrough Video](https://drive.google.com/file/d/1PeRGIUmAV-7IFu7av-EAxMRmgihzP1lp/view?usp=share_link)
