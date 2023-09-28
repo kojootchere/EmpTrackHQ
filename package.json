@@ -1,0 +1,36 @@
+{
+  "name": "emptrackhq",
+  "version": "1.0.0",
+  "description": "A command-line Employee Management System built with Node.js, Inquirer, and MySQL to efficiently track and organize company departments, roles, and employees.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kojootchere/EmpTrackHQ.git"
+  },
+  "keywords": [
+    "employee",
+    "management",
+    "tracker",
+    "CLI",
+    "inquirer",
+    "MySQL",
+    "Node.js",
+    "database",
+    "CMS"
+  ],
+  "author": "Kojo Otchere <kojootchere@gmail.com> (https://github.com/kojootchere)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kojootchere/EmpTrackHQ/issues"
+  },
+  "homepage": "https://github.com/kojootchere/EmpTrackHQ#readme",
+  "dependencies": {
+    "inquirer": "^9.2.11",
+    "mysql2": "^3.6.0",
+    "promise-mysql": "^5.2.0"
+  }
+}
